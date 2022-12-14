@@ -3,9 +3,8 @@ import random
 
 def getHangmanWord(difficulty):
     filteredCountrisList = []
-    countrisList = ['Benin', 'Ghana', 'Kenya', 'Niger', 'Sudan','Chile', 'Haiti','Libya',	'Palau'	,'Syria', 'China','India','Malta','Qatar','Tonga',
-'Egypt','Italy','Nauru','Samoa','Yemen',
-'Gabon'	,'Japan','Nepal', 'Spain', 'Azerbaijan ' , 'Bangladesh', 'ElSalvador','Kazakhstan','Kyrgyzstan','Luxembourg','Madagascar','Mauritania','Montenegro',
+    countrisList = ['Benin', 'Ghana', 'Kenya', 'Niger', 'Sudan','Chile', 'Haiti','Libya','Palau','Syria', 'China','India','Malta','Qatar','Tonga',
+'Egypt','Italy','Nauru','Samoa','Yemen','Gabon'	,'Japan','Nepal', 'Spain', 'Azerbaijan ' , 'Bangladesh', 'ElSalvador','Kazakhstan','Kyrgyzstan','Luxembourg','Madagascar','Mauritania','Montenegro',
 'Mozambique', 'New Zealand', 'North Korea', 'Saint Lucia', 'Seychelles', 'South Korea', 'South Sudan', 'Tajikistan', 'Uzbekistan', 'Falkland Islands', 'French Polynesia'
 ,'Marshall Islands', 'Northern Ireland','Southern Ireland', 'South West Africa']
 
